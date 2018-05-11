@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// Developed by Tanmoy Ghosh
 map<int,string> terms;
 map<set<int>,string> single_terms,dual_terms,quad_terms,octal_terms,hexa_terms,implicants;
 map<char,vector<int>> pichart;
